@@ -1,4 +1,5 @@
 First line of new file
 Second line of new file
-CENSORED
+Third line of new file
 Fourth line of new file
+CENSORED
